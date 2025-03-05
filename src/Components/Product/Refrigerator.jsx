@@ -17,7 +17,7 @@ const Refrigerator = () => {
 
                 {
                     products
-                        .filter(product => product.category === "Refrigerator Service") // Filter AC Service products
+                        .filter(product => product.category === "Refrigerator Service") // Filter Refrigerator Service products
                         .map(product => <Product key={product.id} product={product} />) // Correct key usage
                 }
             </div>

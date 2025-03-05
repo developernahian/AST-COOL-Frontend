@@ -5,6 +5,7 @@ import Slider from './Components/Slider'
 import AllProduct from './Components/Product/AllProduct'
 import AcSection from './Components/Product/AcSection'
 import Refrigerator from './Components/Product/Refrigerator'
+import Footer from './Components/Footer'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <AllProduct></AllProduct>
       <AcSection></AcSection>
       <Refrigerator></Refrigerator>
+      <Footer></Footer>
     </>
   )
 }
