@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "product_name": "AC Copper Pipes (per ft.)",
+        "image": "https://ast.dooranddelivery.com/uploads/AC-Copper-Pipes_1740982994394_6po2rw.png",
+        "description": "AC Installation Services At 1000FiX Services Ltd., we believe that your comfort begins with a well-installed and efficiently running air conditioning system. Introducing our AC Installation Service – your key to a cool and refreshing indoor environment, no matter the weather outside.",
+        "reviews": 0,
+        "old_price": 450,
+        "price": 450,
+        "discount": "0.00%",
+        "brand": "AST",
+        "category": "AC Service"
+    },
+    {
+        "id": 2,
+        "product_name": "AC Installation Services",
+        "image": "https://ast.dooranddelivery.com/uploads/AC-Installation-service_1740982696673_o5h6my.png",
+        "description": "AC Installation Services At 1000FiX Services Ltd., we believe that your comfort begins with a well-installed and efficiently running air conditioning system. Introducing our AC Installation Service – your key to a cool and refreshing indoor environment, no matter the weather outside.",
+        "reviews": 0,
+        "old_price": 7550,
+        "price": 2550,
+        "discount": "0.00%",
+        "brand": "AST",
+        "category": "AC Service"
+    },
+    {
+        "id": 3,
+        "product_name": "AC Dismantling Service",
+        "image": "https://ast.dooranddelivery.com/uploads/AC-Basic-Service-1_1740982275219_mdw77l.png",
+        "description": "At 1000FiX Service Ltd., we understand that renovations and upgrades are essential for keeping your space comfortable and up-to-date. To facilitate seamless renovations and ensure the safe removal of air conditioning units, we’re proud to introduce our AC Dismantling Service. Why Choose 1000FiX Service Ltd.?",
+        "reviews": 0,
+        "old_price": 2000,
+        "price": 1500,
+        "discount": "25.00%",
+        "brand": "AST",
+        "category": "AC Service"
+    },
+    {
+        "id": 4,
+        "product_name": "Refrigerator Gas Refill Service",
+        "image": "https://ast.dooranddelivery.com/uploads/1740986124_1740986169661_lc0sd5.png",
+        "description": "At 1000FiX Service Ltd., we understand the importance of a fully functional refrigerator in preserving your food and maintaining a healthy lifestyle. That’s why we’re excited to introduce our Refrigerator Gas Refill Service, designed to ensure that your refrigerator operates at peak performance.",
+        "reviews": 0,
+        "old_price": 100,
+        "price": 50,
+        "discount": "5.00%",
+        "brand": "AST",
+        "category": "Refrigerator Service"
+    },
+    {
+        "id": 5,
+        "product_name": "Refrigerator Servicing",
+        "image": "https://ast.dooranddelivery.com/uploads/1740985345_1740985799020_27lzkh.png",
+        "description": "1000FiX Service Ltd. – Your trusted source for comprehensive home appliance repair solutions, specializing in Refrigerator servicing. Is your refrigerator struggling to maintain the right temperature? Are you noticing strange noises or leaks? Don’t let a malfunctioning refrigerator spoil your food or disrupt your daily routine. At 1000FiX Service Ltd., we’re here to provide expert refrigerator servicing to keep your appliance running smoothly and your food fresh.",
+        "reviews": 0,
+        "old_price": 100,
+        "price": 50,
+        "discount": "5.00%",
+        "brand": "AST",
+        "category": "Refrigerator Service"
+    },
+    {
+        "id": 6,
+        "product_name": "AC Jet Wash",
+        "image": "https://ast.dooranddelivery.com/uploads/AC-Hydraulic-Service_1740981735696_zrkeuv.png",
+        "description": "At 1000FiX Service Ltd., we’re excited to introduce our latest offering: AC Hydraulic Services. Designed to ensure optimal performance and longevity of your air conditioning system, our comprehensive service is tailored to meet the unique needs of hydraulic AC units in homes, offices, and commercial spaces.",
+        "reviews": 0,
+        "old_price": 1750,
+        "price": 1500,
+        "discount": "14.29%",
+        "brand": "AST",
+        "category": "AC Service"
+    },
+    {
+        "id": 7,
+        "product_name": "Washing Machine Repair Service",
+        "image": "https://ast.dooranddelivery.com/uploads/Washing-Machine-Repair-Service_1740982764394_9xys3q.png",
+        "description": "AC Installation Services At 1000FiX Services Ltd., we believe that your comfort begins with a well-installed and efficiently running air conditioning system. Introducing our AC Installation Service – your key to a cool and refreshing indoor environment, no matter the weather outside.",
+        "reviews": 0,
+        "old_price": 7550,
+        "price": 2550,
+        "discount": "0.00%",
+        "brand": "AST",
+        "category": "AC Service"
+    },
+    {
+        "id": 8,
+        "product_name": "Microwave Oven Repairing Service",
+        "image": "https://ast.dooranddelivery.com/uploads/Microwave-oven-repairing-service_1740982841647_b7hjoq.png",
+        "description": "AC Installation Services At 1000FiX Services Ltd., we believe that your comfort begins with a well-installed and efficiently running air conditioning system. Introducing our AC Installation Service – your key to a cool and refreshing indoor environment, no matter the weather outside.",
+        "reviews": 0,
+        "old_price": 7550,
+        "price": 2550,
+        "discount": "0.00%",
+        "brand": "AST",
+        "category": "AC Service"
+    },
+    {
+        "id": 9,
+        "product_name": "Refrigerator or fridge Cleaning Service",
+        "image": "https://ast.dooranddelivery.com/uploads/refrigerator-service_1740985970860_r0xjl0.jpg",
+        "description": "A clean and hygienic refrigerator or fridge is essential for healthy food storage and optimal appliance performance. Our professional cleaning service ensures your fridge or refrigerator remains spotless and fresh, operating at peak efficiency. We thoroughly clean and sanitize the interior and exterior surfaces, remove dirt, spills, and grime, and inspect key",
+        "reviews": 0,
+        "old_price": 100,
+        "price": 50,
+        "discount": "5.00%",
+        "brand": "AST",
+        "category": "Refrigerator Service"
+    },
+    {
+        "id": 10,
+        "product_name": "Refrigerator Installation Service",
+        "image": "https://ast.dooranddelivery.com/uploads/Adobe%20Express%20-%20file_1740984039809_vbbogg.jpg",
+        "description": "At 1000FiX Service Ltd., we understand the importance of a seamlessly functioning kitchen, and a key player in this is your refrigerator. A well-installed refrigerator not only ensures the longevity of your appliance but also contributes to the efficiency of your kitchen.",
+        "reviews": 0,
+        "old_price": 1000,
+        "price": 950,
+        "discount": "5.00%",
+        "brand": "AST",
+        "category": "Refrigerator Service"
+    }
+]
