@@ -2,14 +2,13 @@ import { FaRegHeart } from "react-icons/fa";
 import { BsCart } from "react-icons/bs";
 import { FaRegUser } from "react-icons/fa6";
 
-const Header = () => {
+
+const Header = ({wishCount, cartCount}) => {
+
+
+
   return (
     <div className="w-11/12 mx-auto">
-
-
-
-
-
 
       <div className="navbar bg-base-100 shadow-sm">
 
@@ -36,7 +35,7 @@ const Header = () => {
 
 
 
-        <div className="navbar-end gap-8">
+        <div className="navbar-end gap-8 ">
 
           <div className="flex flex-row gap-2 justify-center items-center">
             <FaRegUser size={40} />
@@ -46,8 +45,16 @@ const Header = () => {
             </div>
           </div>
 
-          <FaRegHeart size={40} />
-          <BsCart size={40} />
+          <div>
+            <FaRegHeart size={40}  className="realtive"/>
+            <p className="absolute text-2xl  -mt-14 ml-10">{wishCount}</p>
+          </div>
+
+          <div>
+            <BsCart size={40}  className="realtive"/>
+            <p className="absolute text-2xl  -mt-14 ml-10">{cartCount}</p>
+          </div>
+
 
 
         </div>
@@ -57,7 +64,7 @@ const Header = () => {
       </div>
 
 
- 
+
 
       <div role="tablist" className="tabs tabs-border mt-10 flex justify-center">
         <a role="tab" className="tab hover:underline">AC SERVICE</a>

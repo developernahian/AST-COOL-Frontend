@@ -4,7 +4,7 @@ import { IoEye } from "react-icons/io5";
 import { RxLoop } from "react-icons/rx";
 
 
-const Product = ({ product }) => {
+const Product = ({ product, handleWishCount, handleCartCount }) => {
     // console.log(product)
 
     const [count, setCount] = useState(1)
@@ -127,14 +127,16 @@ const Product = ({ product }) => {
 
                         </div>
                         {/* add to cart */}
-                        <button className="btn btn-outline btn-primary flex-grow rounded-lg border-2">Add to Cart</button>
+                        <button onClick={()=>handleCartCount()} className="btn btn-outline btn-primary flex-grow rounded-lg border-2">Add to Cart</button>
 
                         {/* wish list */}
                         <div className="border-2 p-2 rounded-md hover:bg-blue-600 hover:text-white hover:corsor-pointer">
-                            <FaRegHeart />
+                            <FaRegHeart onClick={()=>handleWishCount()}/>
                         </div>
 
                     </div>
+
+                    <button onClick={()=>handleCartCount()} class="btn btn-primary w-full mt-4 rounded-xl">Buy Now</button>
 
 
                 </div>

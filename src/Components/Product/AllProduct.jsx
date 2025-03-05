@@ -4,7 +4,7 @@ import ac from '/src/assets/img/ac.png'
 import refrigerator from '/src/assets/img/refrigerator.png'
 
 
-const AllProduct = () => {
+const AllProduct = ({handleWishCount, handleCartCount}) => {
 
     const [products, setProducts] = useState([])
     useEffect(() => {
@@ -30,7 +30,7 @@ const AllProduct = () => {
             
             <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
                 {
-                    products.map(product => <Product key={products.id} product={product}></Product>)
+                    products.map(product => <Product key={products.id} product={product} handleWishCount={handleWishCount} handleCartCount={handleCartCount}></Product>)
                 }
             </div>
 
